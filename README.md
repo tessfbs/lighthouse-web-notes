@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Tess for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Tess](https://github.com/tessfbs) for the Lighthouse Labs Web Development Bootcamp.
